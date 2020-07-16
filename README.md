@@ -12,3 +12,6 @@ add by feature-1 69
 
 add by master 1
 add by master 2
+add by feature-10 1
+add by feature-10 2
+add by feature-10 3
